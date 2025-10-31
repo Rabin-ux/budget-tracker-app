@@ -34,7 +34,7 @@ h2 {
 }
 
 .form-group input {
-    width: 100%;
+    width: 105%;
     padding: 8px;
     box-sizing: border-box;
     border: 1px solid #ccc;
@@ -42,7 +42,7 @@ h2 {
 }
 
 button {
-    width: 100%;
+    width: 110%;
     padding: 10px;
     background-color: #5cb85c;
     color: white;
